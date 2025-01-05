@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seaborn on Han</title>
-    <link>/tags/seaborn/</link>
+    <link>//localhost:1313/tags/seaborn/</link>
     <description>Recent content in Seaborn on Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
     <copyright>2025 - Han Li All Rights Reserved</copyright>
-    <atom:link href="/tags/seaborn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/seaborn/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Visa Approveal rate predictionm</title>
-      <link>/project/visa-granted-rate/</link>
+      <link>//localhost:1313/project/visa-granted-rate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/visa-granted-rate/</guid>
+      <guid>//localhost:1313/project/visa-granted-rate/</guid>
       <description></description>
       
     </item>

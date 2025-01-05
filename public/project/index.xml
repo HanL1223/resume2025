@@ -2,101 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Han</title>
-    <link>/project/</link>
+    <link>//localhost:1313/project/</link>
     <description>Recent content in Projects on Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
     <copyright>2025 - Han Li All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 20:57:15 +1100</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Advanced Customisation</title>
-      <link>/project/advanced-customisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/advanced-customisation/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Sat, 04 Jan 2025 20:57:15 +1100</lastBuildDate><atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bridging the Digital Divide</title>
-      <link>/project/seniordigi/</link>
+      <link>//localhost:1313/project/seniordigi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/seniordigi/</guid>
+      <guid>//localhost:1313/project/seniordigi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Visa Approveal rate predictionm</title>
-      <link>/project/visa-granted-rate/</link>
+      <link>//localhost:1313/project/visa-granted-rate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/visa-granted-rate/</guid>
+      <guid>//localhost:1313/project/visa-granted-rate/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Novel Recommender</title>
-      <link>/project/recommender/</link>
+      <link>//localhost:1313/project/recommender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/recommender/</guid>
+      <guid>//localhost:1313/project/recommender/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hand Coded</title>
-      <link>/project/hand_coded/</link>
+      <link>//localhost:1313/project/hand_coded/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/hand_coded/</guid>
+      <guid>//localhost:1313/project/hand_coded/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dog Breed Classification</title>
-      <link>/project/dogbreedclassification/</link>
+      <link>//localhost:1313/project/dogbreedclassification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/dogbreedclassification/</guid>
+      <guid>//localhost:1313/project/dogbreedclassification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Password Strength Validation</title>
-      <link>/project/security_check/</link>
+      <link>//localhost:1313/project/security_check/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/security_check/</guid>
+      <guid>//localhost:1313/project/security_check/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>WINDPOWER_PLACEHOLDER</title>
-      <link>/project/windpower/</link>
+      <link>//localhost:1313/project/windpower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/windpower/</guid>
+      <guid>//localhost:1313/project/windpower/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tester</title>
-      <link>/project/tester/</link>
+      <link>//localhost:1313/project/tester/</link>
       <pubDate>Sat, 04 Jan 2025 20:57:15 +1100</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/tester/</guid>
+      <guid>//localhost:1313/project/tester/</guid>
       <description></description>
       
     </item>

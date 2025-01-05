@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sklearn on Han</title>
-    <link>/tags/sklearn/</link>
+    <link>//localhost:1313/tags/sklearn/</link>
     <description>Recent content in Sklearn on Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
     <copyright>2025 - Han Li All Rights Reserved</copyright>
-    <atom:link href="/tags/sklearn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/sklearn/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Visa Approveal rate predictionm</title>
-      <link>/project/visa-granted-rate/</link>
+      <link>//localhost:1313/project/visa-granted-rate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/visa-granted-rate/</guid>
+      <guid>//localhost:1313/project/visa-granted-rate/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Password Strength Validation</title>
-      <link>/project/security_check/</link>
+      <link>//localhost:1313/project/security_check/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/security_check/</guid>
+      <guid>//localhost:1313/project/security_check/</guid>
       <description></description>
       
     </item>

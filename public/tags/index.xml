@@ -2,221 +2,221 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Han</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
     <copyright>2025 - Han Li All Rights Reserved</copyright>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Advanced</title>
-      <link>/tags/advanced/</link>
+      <link>//localhost:1313/tags/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/advanced/</guid>
+      <guid>//localhost:1313/tags/advanced/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>BERT</title>
-      <link>/tags/bert/</link>
+      <link>//localhost:1313/tags/bert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/bert/</guid>
+      <guid>//localhost:1313/tags/bert/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CNN</title>
-      <link>/tags/cnn/</link>
+      <link>//localhost:1313/tags/cnn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/cnn/</guid>
+      <guid>//localhost:1313/tags/cnn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Collaborative Filtering</title>
-      <link>/tags/collaborative-filtering/</link>
+      <link>//localhost:1313/tags/collaborative-filtering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/collaborative-filtering/</guid>
+      <guid>//localhost:1313/tags/collaborative-filtering/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Css</title>
-      <link>/tags/css/</link>
+      <link>//localhost:1313/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/css/</guid>
+      <guid>//localhost:1313/tags/css/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>//localhost:1313/tags/deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/deep-learning/</guid>
+      <guid>//localhost:1313/tags/deep-learning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Django</title>
-      <link>/tags/django/</link>
+      <link>//localhost:1313/tags/django/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/django/</guid>
+      <guid>//localhost:1313/tags/django/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docker</title>
-      <link>/tags/docker/</link>
+      <link>//localhost:1313/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/docker/</guid>
+      <guid>//localhost:1313/tags/docker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docs</title>
-      <link>/tags/docs/</link>
+      <link>//localhost:1313/tags/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/docs/</guid>
+      <guid>//localhost:1313/tags/docs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Emsemble Machine Learning</title>
-      <link>/tags/emsemble-machine-learning/</link>
+      <link>//localhost:1313/tags/emsemble-machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/emsemble-machine-learning/</guid>
+      <guid>//localhost:1313/tags/emsemble-machine-learning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>//localhost:1313/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/machine-learning/</guid>
+      <guid>//localhost:1313/tags/machine-learning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Math</title>
-      <link>/tags/math/</link>
+      <link>//localhost:1313/tags/math/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/math/</guid>
+      <guid>//localhost:1313/tags/math/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>/tags/pandas/</link>
+      <link>//localhost:1313/tags/pandas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/pandas/</guid>
+      <guid>//localhost:1313/tags/pandas/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>/tags/python/</link>
+      <link>//localhost:1313/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/python/</guid>
+      <guid>//localhost:1313/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pytorch</title>
-      <link>/tags/pytorch/</link>
+      <link>//localhost:1313/tags/pytorch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/pytorch/</guid>
+      <guid>//localhost:1313/tags/pytorch/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Recommender</title>
-      <link>/tags/recommender/</link>
+      <link>//localhost:1313/tags/recommender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/recommender/</guid>
+      <guid>//localhost:1313/tags/recommender/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Seaborn</title>
-      <link>/tags/seaborn/</link>
+      <link>//localhost:1313/tags/seaborn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/seaborn/</guid>
+      <guid>//localhost:1313/tags/seaborn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sklearn</title>
-      <link>/tags/sklearn/</link>
+      <link>//localhost:1313/tags/sklearn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/sklearn/</guid>
+      <guid>//localhost:1313/tags/sklearn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Streamlit</title>
-      <link>/tags/streamlit/</link>
+      <link>//localhost:1313/tags/streamlit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/streamlit/</guid>
+      <guid>//localhost:1313/tags/streamlit/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Transformer</title>
-      <link>/tags/transformer/</link>
+      <link>//localhost:1313/tags/transformer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/transformer/</guid>
+      <guid>//localhost:1313/tags/transformer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Xgboost</title>
-      <link>/tags/xgboost/</link>
+      <link>//localhost:1313/tags/xgboost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/tags/xgboost/</guid>
+      <guid>//localhost:1313/tags/xgboost/</guid>
       <description></description>
       
     </item>

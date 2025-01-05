@@ -1,7 +1,6 @@
 ---
 title: "Dog Breed Classification"
 description: "Transfer Learning CV using TorchVision"
-dateString: 2023
 draft: false
 tags: ["Pytorch","CNN","Streamlit"]
 showToc: False

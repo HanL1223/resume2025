@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaborative Filtering on Han</title>
-    <link>/tags/collaborative-filtering/</link>
+    <link>//localhost:1313/tags/collaborative-filtering/</link>
     <description>Recent content in Collaborative Filtering on Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
     <copyright>2025 - Han Li All Rights Reserved</copyright>
-    <atom:link href="/tags/collaborative-filtering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/collaborative-filtering/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Novel Recommender</title>
-      <link>/posts/recommender/</link>
+      <link>//localhost:1313/posts/recommender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/posts/recommender/</guid>
+      <guid>//localhost:1313/posts/recommender/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Novel Recommender</title>
-      <link>/project/recommender/</link>
+      <link>//localhost:1313/project/recommender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/project/recommender/</guid>
+      <guid>//localhost:1313/project/recommender/</guid>
       <description></description>
       
     </item>

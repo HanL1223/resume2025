@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Han</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
     <copyright>2025 - Han Li All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 20:57:15 +1100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jan 2025 20:57:15 +1100</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Novel Recommender</title>
-      <link>/posts/recommender/</link>
+      <link>//localhost:1313/posts/recommender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/posts/recommender/</guid>
+      <guid>//localhost:1313/posts/recommender/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hand Coded</title>
-      <link>/posts/hand_coded/</link>
+      <link>//localhost:1313/posts/hand_coded/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/posts/hand_coded/</guid>
+      <guid>//localhost:1313/posts/hand_coded/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tester</title>
-      <link>/posts/tester/</link>
+      <link>//localhost:1313/posts/tester/</link>
       <pubDate>Sat, 04 Jan 2025 20:57:15 +1100</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>/posts/tester/</guid>
+      <guid>//localhost:1313/posts/tester/</guid>
       <description></description>
       
     </item>
