@@ -17,10 +17,12 @@ title = "Han"
 [params.author]
 name = "Han Li"
 email = "han.li1223@outlook.com"
-image = "img/blowfish_logo.png"
-imageQuality = 96
-headline = "TEST A"
-bio = "DEMO still to be finish "
+image = "img/icon.jpg"
+imageQuality = 100
+headline = "Hello there - Welcome to my site"
+bio = """
+Passionated to Data, Warhammer and everything gaming
+"""
 
 
 
@@ -28,4 +30,5 @@ links = [
   {github = "https://github.com/HanL1223"},
   { email = "mailto:han.li1223@outlook.com" },
   {linkedin = "https://www.linkedin.com/in/hanli12"},
+  {steam = "https://steamcommunity.com/profiles/76561198188282566/" },
 ]

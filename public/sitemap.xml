@@ -3,86 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/project/advanced-customisation/</loc>
+    <loc>/project/advanced-customisation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/project/seniordigi/</loc>
+    <loc>/project/seniordigi/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/project/visa-granted-rate/</loc>
+    <loc>/project/visa-granted-rate/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/recommender/</loc>
+    <loc>/posts/recommender/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/project/recommender/</loc>
+    <loc>/project/recommender/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/hand_coded/</loc>
+    <loc>/posts/hand_coded/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/project/hand_coded/</loc>
+    <loc>/project/hand_coded/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/project/dogbreedclassification/</loc>
+    <loc>/project/dogbreedclassification/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/project/security_check/</loc>
+    <loc>/project/security_check/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/myself/</loc>
+    <loc>/myself/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/project/windpower/</loc>
+    <loc>/project/windpower/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-01-04T20:57:15+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2025-01-04T20:57:15+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-01-04T20:57:15+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/tester/</loc>
+    <loc>/posts/tester/</loc>
     <lastmod>2025-01-04T20:57:15+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/project/tester/</loc>
+    <loc>/project/tester/</loc>
     <lastmod>2025-01-04T20:57:15+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

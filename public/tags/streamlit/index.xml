@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Streamlit on Han</title>
-    <link>//localhost:1313/tags/streamlit/</link>
+    <link>/tags/streamlit/</link>
     <description>Recent content in Streamlit on Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
     <copyright>2025 - Han Li All Rights Reserved</copyright>
-    <atom:link href="//localhost:1313/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dog Breed Classification</title>
-      <link>//localhost:1313/project/dogbreedclassification/</link>
+      <link>/project/dogbreedclassification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/project/dogbreedclassification/</guid>
+      <guid>/project/dogbreedclassification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>WINDPOWER_PLACEHOLDER</title>
-      <link>//localhost:1313/project/windpower/</link>
+      <link>/project/windpower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/project/windpower/</guid>
+      <guid>/project/windpower/</guid>
       <description></description>
       
     </item>

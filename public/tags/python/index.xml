@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Han</title>
-    <link>//localhost:1313/tags/python/</link>
+    <link>/tags/python/</link>
     <description>Recent content in Python on Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
     <copyright>2025 - Han Li All Rights Reserved</copyright>
-    <atom:link href="//localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bridging the Digital Divide</title>
-      <link>//localhost:1313/project/seniordigi/</link>
+      <link>/project/seniordigi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/project/seniordigi/</guid>
+      <guid>/project/seniordigi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Visa Approveal rate predictionm</title>
-      <link>//localhost:1313/project/visa-granted-rate/</link>
+      <link>/project/visa-granted-rate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/project/visa-granted-rate/</guid>
+      <guid>/project/visa-granted-rate/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Novel Recommender</title>
-      <link>//localhost:1313/posts/recommender/</link>
+      <link>/posts/recommender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/posts/recommender/</guid>
+      <guid>/posts/recommender/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Novel Recommender</title>
-      <link>//localhost:1313/project/recommender/</link>
+      <link>/project/recommender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/project/recommender/</guid>
+      <guid>/project/recommender/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Password Strength Validation</title>
-      <link>//localhost:1313/project/security_check/</link>
+      <link>/project/security_check/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/project/security_check/</guid>
+      <guid>/project/security_check/</guid>
       <description></description>
       
     </item>
