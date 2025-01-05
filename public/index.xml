@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Han</title>
+    <title>Projects on Han</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Han</description>
+    <description>Recent content in Projects on Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
-    <copyright>© 2025 Han Li</copyright>
+    <copyright>2025 - Han Li All Rights Reserved</copyright>
     <lastBuildDate>Sat, 04 Jan 2025 20:57:15 +1100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bridging the Digital Divide</title>
-      <link>//localhost:1313/projects/seniordigi/</link>
+      <title>Advanced Customisation</title>
+      <link>//localhost:1313/project/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/seniordigi/</guid>
+      <guid>//localhost:1313/project/advanced-customisation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bridging the Digital Divide</title>
+      <link>//localhost:1313/project/seniordigi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>han.li1223@outlook.com (Han Li)</author>
+      <guid>//localhost:1313/project/seniordigi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Visa Approveal rate predictionm</title>
-      <link>//localhost:1313/projects/visa_pred/</link>
+      <link>//localhost:1313/project/visa-granted-rate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/visa_pred/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>NYC for hire car Dash Borad</title>
-      <link>//localhost:1313/projects/de/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/de/</guid>
+      <guid>//localhost:1313/project/visa-granted-rate/</guid>
       <description></description>
       
     </item>
@@ -52,6 +52,16 @@
     </item>
     
     <item>
+      <title>Novel Recommender</title>
+      <link>//localhost:1313/project/recommender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>han.li1223@outlook.com (Han Li)</author>
+      <guid>//localhost:1313/project/recommender/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Hand Coded</title>
       <link>//localhost:1313/posts/hand_coded/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,21 +72,31 @@
     </item>
     
     <item>
-      <title>Dog Breed Classification</title>
-      <link>//localhost:1313/projects/dogbreedclassification/</link>
+      <title>Hand Coded</title>
+      <link>//localhost:1313/project/hand_coded/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/dogbreedclassification/</guid>
+      <guid>//localhost:1313/project/hand_coded/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dog Breed Classification</title>
+      <link>//localhost:1313/project/dogbreedclassification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>han.li1223@outlook.com (Han Li)</author>
+      <guid>//localhost:1313/project/dogbreedclassification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Password Strength Validation</title>
-      <link>//localhost:1313/projects/security_check/</link>
+      <link>//localhost:1313/project/security_check/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/security_check/</guid>
+      <guid>//localhost:1313/project/security_check/</guid>
       <description></description>
       
     </item>
@@ -93,10 +113,10 @@
     
     <item>
       <title>WINDPOWER_PLACEHOLDER</title>
-      <link>//localhost:1313/projects/windpower/</link>
+      <link>//localhost:1313/project/windpower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/windpower/</guid>
+      <guid>//localhost:1313/project/windpower/</guid>
       <description></description>
       
     </item>
@@ -107,6 +127,16 @@
       <pubDate>Sat, 04 Jan 2025 20:57:15 +1100</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
       <guid>//localhost:1313/posts/tester/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tester</title>
+      <link>//localhost:1313/project/tester/</link>
+      <pubDate>Sat, 04 Jan 2025 20:57:15 +1100</pubDate>
+      <author>han.li1223@outlook.com (Han Li)</author>
+      <guid>//localhost:1313/project/tester/</guid>
       <description></description>
       
     </item>

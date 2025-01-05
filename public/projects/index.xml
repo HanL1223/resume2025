@@ -12,61 +12,11 @@
     <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bridging the Digital Divide</title>
-      <link>//localhost:1313/projects/seniordigi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/seniordigi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Visa Approveal rate predictionm</title>
-      <link>//localhost:1313/projects/visa_pred/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/visa_pred/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>NYC for hire car Dash Borad</title>
-      <link>//localhost:1313/projects/de/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/de/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Dog Breed Classification</title>
       <link>//localhost:1313/projects/dogbreedclassification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
       <guid>//localhost:1313/projects/dogbreedclassification/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Password Strength Validation</title>
-      <link>//localhost:1313/projects/security_check/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/security_check/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>WINDPOWER_PLACEHOLDER</title>
-      <link>//localhost:1313/projects/windpower/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/windpower/</guid>
       <description></description>
       
     </item>

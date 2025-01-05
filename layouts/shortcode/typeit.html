@@ -1,0 +1,12 @@
+<div class="typeit-container">
+    <script src="https://cdn.jsdelivr.net/npm/typeit@8"></script>
+    <div id="typeit">
+        {{ .Inner }}
+    </div>
+    <script>
+        new TypeIt("#typeit", {
+            speed: 50,
+            loop: false,
+        }).go();
+    </script>
+</div>

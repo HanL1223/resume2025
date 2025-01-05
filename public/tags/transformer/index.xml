@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
-    <copyright>© 2025 Han Li</copyright>
+    <copyright>2025 - Han Li All Rights Reserved</copyright>
     <atom:link href="//localhost:1313/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,6 +17,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
       <guid>//localhost:1313/posts/hand_coded/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hand Coded</title>
+      <link>//localhost:1313/project/hand_coded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>han.li1223@outlook.com (Han Li)</author>
+      <guid>//localhost:1313/project/hand_coded/</guid>
       <description></description>
       
     </item>

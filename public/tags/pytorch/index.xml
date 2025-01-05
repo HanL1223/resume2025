@@ -8,15 +8,15 @@
     <language>en</language>
     <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
     <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
-    <copyright>© 2025 Han Li</copyright>
+    <copyright>2025 - Han Li All Rights Reserved</copyright>
     <atom:link href="//localhost:1313/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bridging the Digital Divide</title>
-      <link>//localhost:1313/projects/seniordigi/</link>
+      <link>//localhost:1313/project/seniordigi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/seniordigi/</guid>
+      <guid>//localhost:1313/project/seniordigi/</guid>
       <description></description>
       
     </item>
@@ -32,31 +32,31 @@
     </item>
     
     <item>
+      <title>Hand Coded</title>
+      <link>//localhost:1313/project/hand_coded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>han.li1223@outlook.com (Han Li)</author>
+      <guid>//localhost:1313/project/hand_coded/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Dog Breed Classification</title>
-      <link>//localhost:1313/projects/dogbreedclassification/</link>
+      <link>//localhost:1313/project/dogbreedclassification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/dogbreedclassification/</guid>
+      <guid>//localhost:1313/project/dogbreedclassification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>WINDPOWER_PLACEHOLDER</title>
-      <link>//localhost:1313/myself/</link>
+      <link>//localhost:1313/project/windpower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/myself/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>WINDPOWER_PLACEHOLDER</title>
-      <link>//localhost:1313/projects/windpower/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>han.li1223@outlook.com (Han Li)</author>
-      <guid>//localhost:1313/projects/windpower/</guid>
+      <guid>//localhost:1313/project/windpower/</guid>
       <description></description>
       
     </item>

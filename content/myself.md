@@ -23,3 +23,4 @@ SKILLS :
 - Methodologies: Agile (Scrum), Waterfall
 
 - Tools: Confluence, Jira, Git
+

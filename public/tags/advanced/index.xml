@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced on Han</title>
+    <link>//localhost:1313/tags/advanced/</link>
+    <description>Recent content in Advanced on Han</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>han.li1223@outlook.com (Han Li)</managingEditor>
+    <webMaster>han.li1223@outlook.com (Han Li)</webMaster>
+    <copyright>2025 - Han Li All Rights Reserved</copyright>
+    <atom:link href="//localhost:1313/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advanced Customisation</title>
+      <link>//localhost:1313/project/advanced-customisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>han.li1223@outlook.com (Han Li)</author>
+      <guid>//localhost:1313/project/advanced-customisation/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

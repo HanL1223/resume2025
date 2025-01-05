@@ -17,14 +17,13 @@
 
  [[main]]
   name = "Projects"
- pageRef = "projets/DE"
+ pageRef = "Project"
   weight = 20 
 
 [[main]]
   name = "Works I done"
- pageRef = "post"
+ pageRef = "posts"
   weight = 30
-
 
 
 [[main]]
