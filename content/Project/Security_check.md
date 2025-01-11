@@ -15,6 +15,18 @@ cover:
 ### Credit
 Members of team TP8 for subject FIT5120/22 
 
+{{< typeit 
+  tag=h3
+  speed=50
+  breakLines=false
+  loop=true
+>}}
+"Frankly, my dear, I don't give a damn." Gone with the Wind (1939)
+"I'm gonna make him an offer he can't refuse." The Godfather (1972)
+"Toto, I've a feeling we're not in Kansas anymore." The Wizard of Oz (1939)
+{{< /typeit >}}
+
+
 ### Skill invlove
 **Python** **Pandas** **Machine Learning** 
 

@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/project/advanced-customisation/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/project/seniordigi/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -58,6 +53,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-01-04T20:57:15+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-01-04T20:57:15+11:00</lastmod>
     <changefreq>daily</changefreq>
@@ -65,12 +66,6 @@
   </url>
   <url>
     <loc>//localhost:1313/project/</loc>
-    <lastmod>2025-01-04T20:57:15+11:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/</loc>
     <lastmod>2025-01-04T20:57:15+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

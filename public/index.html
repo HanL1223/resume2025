@@ -12,7 +12,7 @@
   <title>Han</title>
   <meta name="title" content="Han" />
   
-  <meta name="description" content="Learn about some of my projects." />
+  
   
   
   
@@ -71,15 +71,13 @@
   
   <meta property="og:url" content="//localhost:1313/">
   <meta property="og:site_name" content="Han">
-  <meta property="og:title" content="Projects">
-  <meta property="og:description" content="Learn about some of my projects.">
+  <meta property="og:title" content="Homepage">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Projects">
-  <meta name="twitter:description" content="Learn about some of my projects.">
+  <meta name="twitter:title" content="Homepage">
 
   
   <script type="application/ld+json">
@@ -470,8 +468,8 @@
     <div class="relative">
         <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gray-100"></div>
         <div class="mx-auto max-w-7xl p-0">
-            <div class="relative sm:overflow-hidden">
-                <div class="fixed inset-x-0 top-0" style="z-index:-10">
+            <div class="relative shadow-xl sm:overflow-hidden rounded-2xl">
+                <div class="absolute inset-0">
                     
                     
                         
@@ -484,16 +482,13 @@
                         
                     
                     
-                    <img class="w-full h-[1000px] object-cover m-0 nozoom" src="/img/abc.jpg" role="presentation">
+                    <img class="h-full w-full object-cover m-0 nozoom" src="/img/abc.jpg">
                     <div
-                        class="absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
-                    </div>
-                    <div
-                        class="opacity-60 absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+                        class="absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply">
                     </div>
                     
                 </div>
-                <div class="relative px-1 py-1 flex flex-col items-center justify-center text-center">
+                <div class="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8 flex flex-col items-center justify-center text-center">
                     
                         
                         
@@ -507,11 +502,11 @@
                                 alt="Han Li" src="/img/icon_hu14110933637222285298.jpg" />
                         
                     
-                    <h1 class="mb-2 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">
+                    <h1 class="mb-2 text-4xl font-extrabold text-neutral-200">
                         Han Li
                     </h1>
                     
-                    <h2 class="mt-0 mb-0 text-xl text-neutral-800 dark:text-neutral-300">
+                    <h2 class="mt-0 mb-0 text-xl text-neutral-300">
                         Hello there - Welcome to my site
                     </h2>
                     
@@ -520,7 +515,7 @@
                         <div class="flex flex-wrap">
                             
                             
-                            <a class="px-1 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="https://github.com/HanL1223" target="_blank"
+                            <a class="px-1 hover:text-primary-400 text-primary-300" href="https://github.com/HanL1223" target="_blank"
                                 aria-label="Github" rel="me noopener noreferrer">
 
   <span class="relative block icon">
@@ -532,7 +527,7 @@
                             
                             
                             
-                            <a class="px-1 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="mailto:han.li1223@outlook.com" target="_blank"
+                            <a class="px-1 hover:text-primary-400 text-primary-300" href="mailto:han.li1223@outlook.com" target="_blank"
                                 aria-label="Email" rel="me noopener noreferrer">
 
   <span class="relative block icon">
@@ -544,7 +539,7 @@
                             
                             
                             
-                            <a class="px-1 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="https://www.linkedin.com/in/hanli12" target="_blank"
+                            <a class="px-1 hover:text-primary-400 text-primary-300" href="https://www.linkedin.com/in/hanli12" target="_blank"
                                 aria-label="Linkedin" rel="me noopener noreferrer">
 
   <span class="relative block icon">
@@ -556,7 +551,7 @@
                             
                             
                             
-                            <a class="px-1 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="https://steamcommunity.com/profiles/76561198188282566/" target="_blank"
+                            <a class="px-1 hover:text-primary-400 text-primary-300" href="https://steamcommunity.com/profiles/76561198188282566/" target="_blank"
                                 aria-label="Steam" rel="me noopener noreferrer">
 
   <span class="relative block icon">
@@ -570,21 +565,23 @@
                         </div>
                         
                     </div>
-                    <section class="prose dark:prose-invert"><h3 id="typeit-6fb22d3943ec7794c447a8e7c1bb77a4"></h3>
+                    <section class="prose prose-invert"><div class="typeit-container">
+    <script src="https://cdn.jsdelivr.net/npm/typeit@8"></script>
+    <div id="typeit">
+        
+This is a site to store my personal KBs and projects
+If you have any questions
+Feel free to connect via email
 
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-      new TypeIt("#typeit-6fb22d3943ec7794c447a8e7c1bb77a4", {
-        strings: ["","Feel free to connect via email, Linkedin","Or even Steam - If you are looking for a gaming buddy",""],
-        speed:  50 ,
-        lifeLike:  false ,
-        startDelay:  0 ,
-        breakLines:  false ,
-        waitUntilVisible:  true ,
-        loop:  true 
-      }).go();
-    });
-</script>
+    </div>
+    <script>
+        new TypeIt("#typeit", {
+            speed: 50,
+            loop: false,
+        }).go();
+    </script>
+</div>
+
 </section>
                 </div>
             </div>
@@ -598,10 +595,15 @@
 
 </section>
 
-
   
 
-      
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
